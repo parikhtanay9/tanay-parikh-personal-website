@@ -1,11 +1,11 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Tanay Parikh | Personal Webpage",
+	"Name": "Tanay Parikh",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"Currently Studing at Singhania School,Thane. I love Basketball, kabaddi and Computer Gaming.",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.imgur.com/A6WbRsG.jpg",
 	"BackgroundURL": "",
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
@@ -19,7 +19,7 @@
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Amazon India",
