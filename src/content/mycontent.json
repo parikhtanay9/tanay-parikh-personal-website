@@ -45,7 +45,7 @@
 	"ProjectsStartLine": "My passion project:",
 	"Projects": [{
 			"name": "Technobuzz",
-			"link": ""
+			"link": "https://instagram.com/_technobuzz_?igshid=1fvjin9hg9p90"
 		}
 	],
 
@@ -53,11 +53,7 @@
 	"CV": "https://drive.google.com/file/d/1n0F81ydvOdlqJ1AScFij8f4IEwkCzo68/view?usp=sharing",
 
 	"emailid": "mailto:parikhtanay9@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"linkedin": "",
+	"github": "",
+	"instagram": "https://instagram.com/_technobuzz_?igshid=1fvjin9hg9p90",
 }
