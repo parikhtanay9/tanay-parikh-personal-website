@@ -22,16 +22,24 @@
 	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
+			"name": "Super Watt Power Solutions LLP",
+			"link": "https://drive.google.com/file/d/1bnuNXLkuQLYLHgJ5EChtq8Kt28dRyEyB/view?usp=sharing"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"name": "TechnoPurple Solutions Pvt. Ltd.",
+			"link": "https://drive.google.com/file/d/1-iazfnPP_kHi4mcpz5MNErnZZLhNFX2g/view?usp=sharing"
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "Aston Mould Solution",
+			"link": "https://drive.google.com/file/d/149oUaaMjodM5ESIcts0LOfVoT4YKGRJ0/view?usp=sharing"
+		},
+		{
+			"name": "Raviraj Plastochems",
+			"link": "https://drive.google.com/file/d/16mWfCkOpxbjMZBPdxdw8IWsJmFS9vyQH/view?usp=sharing"
+		},
+		{
+			"name": "SKI Plastoware Pvt. Ltd.",
+			"link": "-"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
